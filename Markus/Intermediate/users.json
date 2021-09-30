@@ -1,0 +1,82 @@
+var emplo = `[
+    {
+        "UniqueID": "345312",
+        "FName": "John",
+        "LName": "Lorem",
+        "Email": "John.Lorem@gmial.com",
+        "JobTitle": "Programmer",
+        "Salary": "45000$"
+    },
+    {
+        "UniqueID": "223664",
+        "FName": "Joshua",
+        "LName": "Hurst",
+        "Email": "Joshua.LHurst@gmial.com",
+        "JobTitle": "Mathematician",
+        "Salary": "50000$"
+    },
+    {
+        "UniqueID": "096442",
+        "FName": "Francis",
+        "LName": "Appleton",
+        "Email": "Francis.Appleton@gmial.com",
+        "JobTitle": "Childcare worker",
+        "Salary": "40000$"
+    },
+    {
+        "UniqueID": "283604",
+        "FName": "Robert",
+        "LName": "Knowles",
+        "Email": "Robert.Knowlest@gmial.com",
+        "JobTitle": "Real Estate Agent",
+        "Salary": "70000$"
+    },
+    {
+        "UniqueID": "486553",
+        "FName": "Keane",
+        "LName": "Saunders",
+        "Email": "Keane.Saunders@gmial.com",
+        "JobTitle": "Historian",
+        "Salary": "44000$"
+    },
+    {
+        "UniqueID": "683324",
+        "FName": "Travis",
+        "LName": "William",
+        "Email": "Travis.William@gmial.com",
+        "JobTitle": "Bus Driver",
+        "Salary": "27000$"
+    },
+    {
+        "UniqueID": "486754",
+        "FName": "Sasha",
+        "LName": "Hampton",
+        "Email": "Sasha.Hampton@gmial.com",
+        "JobTitle": "Teacher Assistant",
+        "Salary": "36000$"
+    },
+    {
+        "UniqueID": "017565",
+        "FName": "Kaylan",
+        "LName": "Hurst",
+        "Email": "Delia.Howarth@gmial.com",
+        "JobTitle": "Art Director",
+        "Salary": "60000$"
+    },
+    {
+        "UniqueID": "205765",
+        "FName": "Adrianna",
+        "LName": "Goodwin",
+        "Email": "Adrianna.Goodwin@gmial.com",
+        "JobTitle": "Security Guard",
+        "Salary": "48000$"
+    },
+    {
+        "UniqueID": "255956",
+        "FName": "Denzel",
+        "LName": "Kerr",
+        "Email": "Denzel.Kerr@gmial.com",
+        "JobTitle": "Architect",
+        "Salary": "60000$"
+    }
+]`
