@@ -1,0 +1,74 @@
+let cars = `[
+    {
+        "name": "Citroën Picasso",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    },
+    {
+        "name": "White Audi",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    },
+    {
+        "name": "Porsche Primavera",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    },
+    {
+        "name": "Porsche Panda",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    },
+    {
+        "name": "Mercedes",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    },
+    {
+        "name": "Lamborgini",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    },
+    {
+        "name": "Fifty Fiver",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    },
+    {
+        "name": "Ferrari",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    },
+    {
+        "name": "BMW",
+        "year": "2009",
+        "price": "8490",
+        "eco": "94-195g",
+        "top speed": "173 - 210km/h",
+        "to100": "10.4-15.1s"
+    }
+]`
