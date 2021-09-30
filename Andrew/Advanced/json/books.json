@@ -1,0 +1,32 @@
+let books = `[
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "read": true
+    },
+    {
+        "title": "Catch 22",
+        "author": "Joseph Heller",
+        "read": true
+    },
+    {
+        "title": "Foundation and Earth",
+        "author": "Isaac Asimov",
+        "read": false
+    },
+    {
+        "title": "God is Not Great",
+        "author": "Christopher Hitchens",
+        "read": true
+    },
+    {
+        "title": "Hitch 22",
+        "author": "Christopher Hitchens",
+        "read": false
+    },
+    {
+        "title": "The Tyranny of Merit",
+        "author": "Michael Sandell",
+        "read": false
+    }
+]`
