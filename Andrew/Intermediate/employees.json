@@ -1,0 +1,86 @@
+let employees = `
+
+  [
+    {
+        "uniqueID": "29893944817",
+        "jobTitleName": "Developer",
+        "firstName": "Patrik",
+        "lastName": "Jonathan",
+        "emailAddress": "patrik.k.jonathan@gmail.com",
+        "salary": "40000"
+    },
+    {
+        "uniqueID": "29823964877",
+        "jobTitleName": "Analyst",
+        "firstName": "Selim",
+        "lastName": "Irani",
+        "emailAddress": "tomrirani@gmail.com",
+        "salary": "50000"
+    },
+    {
+        "uniqueID": "25833742117",
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "salary": "45000"
+    },
+    {
+        "uniqueID": "25833742118",
+        "jobTitleName": "JSON Specialist",
+        "firstName": "Martin",
+        "lastName": "Sheen",
+        "emailAddress": "m.sheen@gmail.com",
+        "salary": "85000"
+    },
+    {
+        "uniqueID": "25833742119",
+        "jobTitleName": "JS Programmer",
+        "firstName": "Cassius",
+        "lastName": "Clay",
+        "emailAddress": "c.clay@gmail.com",
+        "salary": "105000"
+    },
+    {
+        "uniqueID": "258337421120",
+        "jobTitleName": "Coffee Maker",
+        "firstName": "Lav",
+        "lastName": "Azza",
+        "emailAddress": "lavazza@gmail.com",
+        "salary": "405000"
+    },
+    {
+        "uniqueID": "25833742121",
+        "jobTitleName": "Perch Man",
+        "firstName": "Jonny",
+        "lastName": "Depp",
+        "emailAddress": "jonnytheDepp@gmail.com",
+        "salary": "5"
+    },
+    {
+        "uniqueID": "25833742122",
+        "jobTitleName": "Research Scientist",
+        "firstName": "Kylie",
+        "lastName": "Minogue",
+        "emailAddress": "kminogue@gmail.com",
+        "salary": "25000"
+    },
+    {
+        "uniqueID": "25833742123",
+        "jobTitleName": "Scientologist",
+        "firstName": "Tom",
+        "lastName": "Cruise",
+        "emailAddress": "tom.cruise@gmail.com",
+        "salary": "-4500000"
+    },
+    {
+        "uniqueID": "25833742124",
+        "jobTitleName": "Senior Liar",
+        "firstName": "Donald J.",
+        "lastName": "Trump",
+        "emailAddress": "donny-t@gmail.com",
+        "salary": "much tax evasion"
+    }
+]
+
+`
